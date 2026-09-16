@@ -1,10 +1,16 @@
 {
-  "updatedAt": "2026-09-15T14:28:48.753Z",
+  "updatedAt": "2026-09-16T01:23:48.938Z",
   "market": {
     "symbol": "^HSI",
     "name": "恒生指數",
     "currency": "HKD",
     "days": [
+      {
+        "date": "2026-09-08",
+        "close": 25317.18,
+        "change": -95.94,
+        "changePct": -0.38
+      },
       {
         "date": "2026-09-09",
         "close": 25274.96,
@@ -28,12 +34,6 @@
         "close": 24917.6,
         "change": 111.97,
         "changePct": 0.45
-      },
-      {
-        "date": "2026-09-15",
-        "close": 24667.24,
-        "change": -250.36,
-        "changePct": -1
       }
     ]
   },
@@ -46,9 +46,9 @@
         "week": "星期三",
         "minTemp": 27,
         "maxTemp": 31,
-        "weather": "大致天晴。初時部分時間多雲。",
+        "weather": "漸轉天晴。初時部分時間多雲，局部地區有驟雨。",
         "wind": "東風4級，間中5級。",
-        "icon": 50,
+        "icon": 51,
         "psr": "低"
       },
       {
